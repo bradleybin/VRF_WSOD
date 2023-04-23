@@ -1,6 +1,6 @@
 ## A Visual Representation-guided Framework with Global Affinity for Weakly Supervised Salient Object Detection
 
-This code was implemented with Python 3.6, PyTorch 1.8.0 and CUDA 11.1 on an an NVIDIA GeForce GTX 3090.
+This code was implemented with Python 3.6, PyTorch 1.8.0, and CUDA 11.1 on an an NVIDIA GeForce GTX 3090.
 
 ## Usage
 ### 1. Download datasets
