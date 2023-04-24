@@ -17,7 +17,7 @@ Enter the directory
 cd Tokencut
 ```
 Install dino_deitsmall8_pretrain from https://dl.fbaipublicfiles.com/dino/dino_deitsmall8_pretrain/dino_deitsmall8_pretrain.pth.
-Then, copy ***main_token_similarity_save.py*** into this directory.
+Then, copy our provided ***main_token_similarity_save.py*** into this directory.
 
 General visual representation generation
 ```bash
