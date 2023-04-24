@@ -16,7 +16,7 @@ Enter the directory
 ```bash
 cd Tokencut
 ```
-Install dino_deitsmall8_pretrain from https://github.com/facebookresearch/dino.
+Install dino_deitsmall8_pretrain from https://dl.fbaipublicfiles.com/dino/dino_deitsmall8_pretrain/dino_deitsmall8_pretrain.pth.
 Then, copy ***main_token_similarity_save.py*** into this directory.
 
 General visual representation generation
