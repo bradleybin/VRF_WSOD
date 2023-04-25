@@ -4,7 +4,7 @@ This code was implemented with Python 3.6, PyTorch 1.8.0, and CUDA 11.1 on an an
 
 ## Usage
 ### 1. Download datasets
-Download the DUTS and other datasets and unzip them into VRF_WSOD/data folder. 
+Download the DUTS and other datasets and unzip them into VRF/data folder. 
 Scribble labels can be downloaed from [Scribble Saliency](https://github.com/JingZhang617/Scribble_Saliency).
 
 ### 2. General visual representation generation
