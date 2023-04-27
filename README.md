@@ -41,7 +41,7 @@ Download the pretrianed weight for backbone [Res50](https://drive.google.com/fil
 python train_token_similarity_40_40_384_mul_dino.py
 ```
 
-### 4. Test
+### 4. Prediction
 Pretrained models can be downloaded from [Google Drive](https://drive.google.com/file/d/1nj-ryvvsW1zlc0kFqlVsA2j-lp9wIiBQ/view?usp=share_link).
 !!!The general visual representations of the test dataset shoud be generated before starting testing. (refer to Part 2)
 
