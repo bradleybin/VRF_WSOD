@@ -119,12 +119,12 @@ if __name__=='__main__':
 
     parser = argparse.ArgumentParser("Visualize Self-Attention maps")
     parser.add_argument(
-        "--mode_path", default='vrf_model/vrf-40.pt', type=str, help="train or test."
+        "--model_path", default='vrf_model/vrf-40.pt', type=str, help="train or test."
     )
     args = parser.parse_args()
     for e in DATASETS:
         print(e)
-        t =Test(dataset_test_dino_test, e, SCWSSOD, args.mode_path)
+        t =Test(dataset_test_dino_test, e, SCWSSOD, args.model_path)
         t.save()
 
 
