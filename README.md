@@ -50,7 +50,7 @@ Pretrained models can be downloaded from [Google Drive](https://drive.google.com
 python test_dino.py --model_path path/to/pretrained_model/folder/
 ```
  
-We provide the pre-computed saliency maps [Google Drive](https://drive.google.com/file/d/1B0Y--vy4nhVlXltfn6RSxmn8lI6dcGoD/view?usp=share_link).
+We provide the pre-computed saliency maps [Google Drive](https://drive.google.com/file/d/1LqihJAZlc0hrPuiLwfFOSVxolREkUtqM/view?usp=drive_link).
 
 
 Thanks to [Tokencut](https://github.com/YangtaoWANG95/TokenCut) and [SCWSSOD](https://github.com/siyueyu/SCWSSOD).
