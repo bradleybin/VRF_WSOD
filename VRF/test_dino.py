@@ -32,6 +32,7 @@ os.environ['CUDA_VISIBLE_DEVICES'] = str(GPU_ID)
 
 
 
+
 #DATASETS = ['./data/ECSSD', './data/DUT-OMRON', './data/PASCAL-S', './data/HKU-IS', './data/THUR15K', './data/DUTS', ]
 DATASETS = [
             'data/DUTS-TE',\
