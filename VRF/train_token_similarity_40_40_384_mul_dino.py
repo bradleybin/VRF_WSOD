@@ -26,6 +26,7 @@ from torch.autograd import Variable
 
 
 
+
 TAG = "vrf_model"
 SAVE_PATH = "vrf_model"
 logger.basicConfig(level=logger.INFO, format='%(levelname)s %(asctime)s %(filename)s: %(lineno)d] %(message)s', datefmt='%Y-%m-%d %H:%M:%S', \
