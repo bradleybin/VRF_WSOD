@@ -16,6 +16,7 @@ from numpy import save
 import os
 
 
+
 parser = argparse.ArgumentParser("Visualize Self-Attention maps")
 parser.add_argument(
     "--patch_size", default=8, type=int, help="Patch resolution of the model."
