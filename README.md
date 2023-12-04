@@ -2,7 +2,7 @@
 
 This code was implemented with Python 3.6, PyTorch 1.8.0, and CUDA 11.1 on an NVIDIA GeForce GTX 3090.
 
-!!!2023-12-4. We have updated our saliency maps. We sincerely apologize for a previous mistake in reading images during the generation of general visual representations on the test dataset, leading to inaccurate results on the DUT-OMRON dataset in the paper. We have released the revised saliency maps. Overall, our method is still effective and remains significantly leading in weak-supervised SOD and approaching fully-supervised methods.
+!!!2023-12-4. We have updated our saliency maps. We sincerely apologize for a previous mistake in reading images during the generation of general visual representations on the test dataset, leading to inaccurate results on the DUT-OMRON dataset in the paper. We have released the revised saliency maps. Overall, our method is still effective and remains significantly leading in weakly-supervised SOD and approaching fully-supervised methods.
 
 ## Usage
 ### 1. Download datasets
